@@ -1,0 +1,2 @@
+edwin; delgado; 1234; 23; M; AB+; 123456; Ginecologo
+andrea; perez; 4567; 33; F; B-; 88888; Pediatra
